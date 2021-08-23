@@ -1,8 +1,6 @@
 import firebase from "firebase/app";
 import "firebase/auth";
 import "firebase/database";
-import sqlite3 from 'sqlite3'
-import { open } from 'sqlite'
 
 const firebaseConfig = {
   apiKey: "AIzaSyBn4CA3RjvnGtb2LnzqpS-xQFOWyO-Zx2k",
